@@ -19,6 +19,10 @@ An application to Auto login in IITG network to access internet through IITG Lan
 | Windows | ✅|⬜️|⬜️|
 | MacOS | ⬜️|⬜️|⬜️|
 
+## Installation
+
+- ### Android
+  - Download [apk release](https://github.com/SysSn13/AutoAgnigarh/releases/download/v1.0/autoagnigarh.apk) and install
 
 ## TODO
 
